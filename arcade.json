@@ -1,0 +1,27 @@
+{
+	"name": "SOCIAL_CONSAPEVOLE",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "2mnzg5ew0vu",
+	"viewport-width": 854,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "landscape",
+	"c2version": "244",
+	"c3version": "r458.2",
+	"ife": true,
+	"used-plugins": [
+		"Sprite",
+		"TiledBg"
+	],
+	"used-behaviors": [
+		"Car",
+		"DragnDrop",
+		"bound",
+		"TileMovement",
+		"jumpthru"
+	]
+}
